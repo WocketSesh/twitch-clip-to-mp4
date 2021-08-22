@@ -1,0 +1,7 @@
+{
+  "name": "tomp4",
+  "version": "1.0.0",
+  "description": "Convert twitch clips to mp4 urls",
+  "author": "Sesh",
+  "license": "MIT"
+}
